@@ -1,2 +1,0 @@
-@regression
-  Feature: Nested frames
