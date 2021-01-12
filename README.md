@@ -1,4 +1,4 @@
-# CucumberTestNgSeleniumDemoProj
+# Cucumber Selenium TestNG Java Demo Project
 
 #Description
 
