@@ -1,9 +1,7 @@
 # Cucumber Selenium TestNG Java Demo Project
 
 The purpose of this project is to demonstrate my ability in automating web applications using Cucumber, Selenium, Java, TestNG using Page Obect Module. 
-All sorts of interactions like forms, links, checkbox,radio buttons, alerts, popups, frames, sliders, drag and drop, dynamic web elements etc covered in the project. 
-
-This example project helps you understand Cucumber and Gherkin Language and how to interact with all types of web elements. 
+All sorts of interactions like forms, links, checkbox,radio buttons, alerts, popups, frames, windows, sliders, drag and drop, dynamic web elements etc were covered in the project. 
 
 You can find more information in this webpage: https://www.cucumber.io
 
